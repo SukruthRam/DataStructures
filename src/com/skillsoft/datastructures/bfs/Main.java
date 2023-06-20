@@ -1,4 +1,7 @@
-package com.skillsoft.datastructures;
+package com.skillsoft.datastructures.bfs;
+
+import com.skillsoft.datastructures.binaryTree.Node;
+import com.skillsoft.datastructures.binaryTree.Pair;
 
 import java.util.LinkedList;
 import java.util.Queue;

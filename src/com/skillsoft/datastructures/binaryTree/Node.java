@@ -1,4 +1,4 @@
-package com.skillsoft.datastructures;
+package com.skillsoft.datastructures.binaryTree;
 
 public class Node<T> {
 
